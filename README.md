@@ -28,9 +28,9 @@ Implementación de una base de datos relacional para la persistencia de la infor
 
 Servicio de autenticación/autorización para restringir el acceso a la información.
 
-## 🛠️ Abre y ejecuta el proyecto
+## 🛠️ Configuración del entorno de desarrollo Java
 
-`Configuración del entorno de desarrollo Java`
+
 
 - Java JDK: versión: 17
 - Maven: versión 4 en adelante
